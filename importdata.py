@@ -12,4 +12,3 @@ print(online_retail.metadata)
   
 # variable information 
 print(online_retail.variables) 
-
